@@ -1,6 +1,6 @@
 # Fullstack Calendar App
 
-Welcome to our Fullstack Calendar App! This project was developed by a group of four enthusiastic students as part of a learning experience. We combined our skills in React, Spring Boot, HTML, CSS, Java, and MySQL to create a fully functioning calendar application.
+Welcome to our Fullstack Calendar App! This project was developed by a group of four students. We combined our skills in React, Spring Boot, HTML, CSS, Java, and MySQL to create a fully functioning calendar application.
 
 ## Features
 
